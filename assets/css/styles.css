@@ -1,0 +1,19 @@
+p {
+    font-size: 20px;
+    font-family: monospace;
+    color: green;
+    }
+  ul{
+    color:green;
+  }
+  .smaller-image {
+  width:500px
+  }
+  #text-align 
+    {
+      text-align:center
+    }
+  div {
+      margin: 0 auto;
+      width: 500px;
+  }
